@@ -2,7 +2,7 @@
 
 **Student Name:** Rohith Jijo
 **Roll Number:** 2562052
-**Batch:** 3 BTCS AIML A
+
 
 This repository contains the solution for the ROS 2 CIA 1 assignment.
 
