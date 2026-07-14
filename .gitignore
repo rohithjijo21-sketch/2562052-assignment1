@@ -1,0 +1,9 @@
+# ROS 2 build artifacts
+build/
+install/
+log/
+
+# IDE/Editor files (Optional but recommended)
+.vscode/
+.idea/
+*.swp
