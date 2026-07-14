@@ -3,7 +3,4 @@ build/
 install/
 log/
 
-# IDE/Editor files (Optional but recommended)
-.vscode/
-.idea/
-*.swp
+
